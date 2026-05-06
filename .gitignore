@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+venv/
+__pycache__/
+*.parquet
+.DS_Store
+.ipynb_checkpoints/
+.idea/
